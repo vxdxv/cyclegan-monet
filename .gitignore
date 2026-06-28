@@ -1,0 +1,6 @@
+datasets/
+checkpoints/
+*.pth
+*.pt
+*.ckpt
+*.zip
